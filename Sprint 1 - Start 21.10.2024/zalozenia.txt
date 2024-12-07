@@ -1,0 +1,13 @@
+Sprint 1: Eksploracja i czyszczenie danych
+
+Cel: Przygotowanie danych do analizy przez usunięcie braków, błędów oraz wstępną eksplorację.
+
+Działania:
+
+        1. Import danych dostarczonych przez zleceniodawce, analiza struktury (z użyciem Pandas).
+        2. Usunięcie lub uzupełnienie brakujących danych (np. brakujące gatunki muzyczne).
+        3. Identyfikacja i usunięcie duplikatów oraz nieprawidłowych wartości.
+        4. Analiza rozkładu zmiennych (np. popularność, gatunek, data wydania).
+        5. Wstępne wizualizacje, np. histogramy popularności lub liczba utworów na gatunek.
+    
+Rezultat: Czysty i gotowy do analizy zestaw danych oraz raport z eksploracją i wnioskami.

@@ -1,0 +1,11 @@
+Sprint 2: Analiza trendów muzycznych
+
+Cel: Zrozumienie kluczowych trendów w muzyce na podstawie danych.
+
+    Działania:
+        1. Analiza najpopularniejszych gatunków muzycznych i artystów.
+        2. Badanie zależności między datą wydania a popularnością utworów.
+        3. Wykresy czasowe popularności gatunków i artystów.
+        4. Zidentyfikowanie wzorców sezonowych (np. najpopularniejsze miesiące wydania).
+        5. Obliczenie średnich popularności w różnych segmentach (gatunek, rok wydania).
+    Rezultat: Raport wizualny (np. w Power BI lub Tableau) prezentujący trendy muzyczne i najważniejsze wnioski.

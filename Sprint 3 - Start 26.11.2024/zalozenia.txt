@@ -1,0 +1,11 @@
+Sprint 3: Klasyfikacja gatunków muzycznych
+
+Cel: Stworzenie modelu klasyfikacyjnego przewidującego gatunek muzyczny na podstawie innych cech.
+
+    Działania:
+        1. Przygotowanie danych do modelowania (standaryzacja, kodowanie zmiennych).
+        2. Zastosowanie algorytmów klasyfikacji (np. Random Forest, Logistic Regression).
+        3. Optymalizacja parametrów modelu (GridSearch lub RandomizedSearch).
+        4. Ewaluacja modelu (macierz pomyłek, metryki F1-score, dokładność).
+        5. Porównanie wyników różnych modeli i wybór najlepszego.
+    Rezultat: Model klasyfikacyjny przewidujący gatunki muzyczne oraz raport o skuteczności.
