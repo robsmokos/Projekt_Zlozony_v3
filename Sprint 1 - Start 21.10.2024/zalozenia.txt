@@ -4,7 +4,7 @@ Cel: Przygotowanie danych do analizy przez usunięcie braków, błędów oraz ws
 
 Działania:
 
-        1. Import danych dostarczonych przez zleceniodawce, analiza struktury (z użyciem Pandas).
+        1. Import danych dostarczonych przez zleceniodawce, analiza struktury.
         2. Usunięcie lub uzupełnienie brakujących danych (np. brakujące gatunki muzyczne).
         3. Identyfikacja i usunięcie duplikatów oraz nieprawidłowych wartości.
         4. Analiza rozkładu zmiennych (np. popularność, gatunek, data wydania).
